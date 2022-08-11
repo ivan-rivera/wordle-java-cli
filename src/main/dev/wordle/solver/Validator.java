@@ -1,7 +1,6 @@
 package main.dev.wordle.solver;
 
 import main.dev.wordle.common.Config;
-import main.dev.wordle.common.Vocabulary;
 
 import java.io.IOException;
 import java.util.Set;
