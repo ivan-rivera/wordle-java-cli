@@ -1,0 +1,15 @@
+================================================================================
+                                     RULES
+================================================================================
+Choose a word length between %d and %d characters, and we'll generate a random
+word of that length for you. You will then need to guess that word. You have %d
+guesses and with each attempt, you will see what letters you have guessed
+correctly. For a guess to be accepted it must be (1) a real word and (2) it must
+not be a repetition of your previous attempts and (3) it must make use of the
+information gained from your previous attempts (e.g. if you've discovered that
+the 2nd letter is "A" then you must submit words with "A" in the 2nd place. You
+can  also request a hint with "%s" -- this will reveal an undiscovered letter
+without giving away its position. Note that a hint uses an attempt! If you are
+having a hard time solving a word, you can try the Solver CLI that will give you
+a list of suggestions base on what you've learnt about the word.
+================================================================================
